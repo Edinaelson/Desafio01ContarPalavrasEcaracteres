@@ -1,0 +1,16 @@
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\bin\Debug\net5.0\DesafioContagem.exe
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\bin\Debug\net5.0\DesafioContagem.deps.json
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\bin\Debug\net5.0\DesafioContagem.runtimeconfig.json
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\bin\Debug\net5.0\DesafioContagem.runtimeconfig.dev.json
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\bin\Debug\net5.0\DesafioContagem.dll
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\bin\Debug\net5.0\DesafioContagem.pdb
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\obj\Debug\net5.0\DesafioContagem.csproj.AssemblyReference.cache
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\obj\Debug\net5.0\DesafioContagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\obj\Debug\net5.0\DesafioContagem.AssemblyInfoInputs.cache
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\obj\Debug\net5.0\DesafioContagem.AssemblyInfo.cs
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\obj\Debug\net5.0\DesafioContagem.csproj.CoreCompileInputs.cache
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\obj\Debug\net5.0\DesafioContagem.dll
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\obj\Debug\net5.0\refint\DesafioContagem.dll
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\obj\Debug\net5.0\DesafioContagem.pdb
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\obj\Debug\net5.0\DesafioContagem.genruntimeconfig.cache
+C:\Users\sedin\OneDrive - Educacional\dotnet\Desafios Carnaval Balta io\DesafioContagem\DesafioContagem\obj\Debug\net5.0\ref\DesafioContagem.dll
