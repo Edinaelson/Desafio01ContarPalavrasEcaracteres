@@ -7,7 +7,8 @@ namespace DesafioContagem
         static void Main(string[] args)
         {
             //Contagem.contagemDePalavras();
-            Imc.imc();
+            //Imc.imc();
+            Combustivel.combustivel();
         }
 
     }
