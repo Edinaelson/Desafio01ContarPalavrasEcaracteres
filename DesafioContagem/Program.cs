@@ -8,7 +8,8 @@ namespace DesafioContagem
         {
             //Contagem.contagemDePalavras();
             //Imc.imc();
-            Combustivel.combustivel();
+            //Combustivel.combustivel();
+            Troco.troco();
         }
 
     }
