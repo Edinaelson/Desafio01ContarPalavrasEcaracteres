@@ -9,7 +9,9 @@ namespace DesafioContagem
             //Contagem.contagemDePalavras();
             //Imc.imc();
             //Combustivel.combustivel();
-            Troco.troco();
+            //Troco.troco();
+            //NomePorExtenso.nomePorExtenso();
+            Criptografia.criptografia();
         }
 
     }

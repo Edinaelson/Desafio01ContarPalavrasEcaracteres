@@ -8,7 +8,6 @@ namespace DesafioContagem
         {
             float valorCompra;
             float pagamento;
-            float cedulas;
 
             Console.WriteLine("- Valor da compra: ");
             valorCompra = Convert.ToSingle(Console.ReadLine());
